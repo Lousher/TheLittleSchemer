@@ -15,3 +15,7 @@
 
 # Law 5
 ## eq? needs two arguments, each must be a non numeric atom(which actually can).
+
+
+# Commandment 1
+## always ask null? in any function
